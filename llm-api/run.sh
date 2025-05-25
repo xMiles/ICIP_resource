@@ -14,7 +14,7 @@ aliyun_request_file="./requests/qwen_chat_example.jsonl"
 aliyun_save_file="./results/qwen_chat_example.jsonl"
 
 aliyun_url="https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
-my_aliyun_api_key="sk-5b1cb3b8153845c98048cb0d70c41fe3"
+my_aliyun_api_key="Your Aliyun API Key"
 
 # deepinfra_request_file="llm-api/requests/llama3_70b_example_deepinfra.jsonl"
 # deepinfra_save_file="llm-api/results/llama3_70b_example_deepinfra.jsonl"
