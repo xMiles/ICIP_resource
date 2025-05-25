@@ -1,1 +1,0 @@
-# ICIP_resource
